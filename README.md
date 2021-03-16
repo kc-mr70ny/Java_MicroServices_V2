@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 | Limits Service | 8080, 8081, ... |
 | Spring Cloud Config Server | 8888 |
-|
+|  |  |
 | Currency Exchange Service | 8000, 8001, 8002, ..  |
 | Currency Conversion Service | 8100, 8101, 8102, ... |
 | Naming Server | 8761 |
